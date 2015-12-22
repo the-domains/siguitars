@@ -1,0 +1,28 @@
+name: SiGuitars
+favicon: null
+layout_spectrum: 0.08859159820713103
+typography_spectrum: 0.7195153769571334
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6846331073902547
+  lightness: 0.46923178620636463
+  saturation: 0.30319016776047647
+  rhythmicContrast: 0.08195799379609525
+purpose: []
