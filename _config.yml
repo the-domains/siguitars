@@ -1,7 +1,7 @@
 name: SiGuitars
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.7195153769571334
+layout_spectrum: 0.75391
+typography_spectrum: 0.24368
 title: One of a kind custom and handmade guitars for true guitar lovers
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#a5a5a5'
     - '#242424'
     - '#525252'
-  brandStrength: 0.5
+  brandStrength: 0.1875
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
