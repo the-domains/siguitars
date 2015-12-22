@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[One of a kind custom and handmade guitars for true guitar lovers]]></title>
         <description><![CDATA[One of a kind custom and handmade guitars for true guitar lovers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/siguitars/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 03:44:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 03:50:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/siguitars/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d9cff59-16fa-46a2-bd20-f8f11b15071d.jpg">]]></description>
+            <link>https://thegrid.ai/siguitars/e6a03426-3b22-4aa1-a9ae-17f4f7e79406/index.html</link>
+            <guid isPermaLink="false">e6a03426-3b22-4aa1-a9ae-17f4f7e79406</guid>
+            <pubDate>Tue, 22 Dec 2015 03:50:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d567ac94-55c6-43c8-a808-3febfd0e5a60.jpg">]]></description>
-            <link>undefined3238be31-c2ca-4fb7-ba78-b6adcdce0ac0/index.html</link>
+            <link>https://thegrid.ai/siguitars/3238be31-c2ca-4fb7-ba78-b6adcdce0ac0/index.html</link>
             <guid isPermaLink="false">3238be31-c2ca-4fb7-ba78-b6adcdce0ac0</guid>
             <pubDate>Tue, 22 Dec 2015 03:44:01 GMT</pubDate>
         </item>
