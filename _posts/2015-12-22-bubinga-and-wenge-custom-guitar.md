@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Designed for precision and power, the SI-6R will never let you down in a perious lick. Cranck up the distortion all you want, the SI-6R is always asking for more. Overview: Bubinga/Wenge neck-thru 24 frets fingerboard DiMarzio Humbucker pickups FloydRose Original double-locking tremolo Gold inlays'
-datePublished: '2015-12-22T03:33:21.093Z'
-dateModified: '2015-12-22T03:32:35.825Z'
+datePublished: '2015-12-22T03:44:26.966Z'
+dateModified: '2015-12-22T03:43:08.719Z'
 title: 'Bubinga & Wenge Custom Guitar'
 author: []
 authors: []
